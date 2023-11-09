@@ -13,3 +13,6 @@ https://pgm-aus.github.io/antons-side/
 
 ### Link til Ardin side
 https://pgm-aus.github.io/ardin-side/
+
+### Link til Minahil side
+https://pgm-aus.github.io/minahil-side/
