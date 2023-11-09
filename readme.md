@@ -9,3 +9,7 @@ https://chat-app-albertslund-2023-dbe996610a5f.herokuapp.com/
 
 ### Link til antons side:
 https://pgm-aus.github.io/antons-side/
+
+
+### Link til Ardin side
+https://pgm-aus.github.io/ardin-side/
