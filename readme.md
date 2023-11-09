@@ -7,12 +7,12 @@ https://serverlesscom-my.sharepoint.com/:f:/g/personal/anton_server-less_com/Ejt
 https://chat-app-albertslund-2023-dbe996610a5f.herokuapp.com/
 
 
-### Link til antons side:
+### Link til Antons side:
 https://pgm-aus.github.io/antons-side/
 
 
-### Link til Ardin side
+### Link til Ardins side
 https://pgm-aus.github.io/ardin-side/
 
-### Link til Minahil side
+### Link til Minahils side
 https://pgm-aus.github.io/minahil-side/
