@@ -5,3 +5,7 @@ https://serverlesscom-my.sharepoint.com/:f:/g/personal/anton_server-less_com/Ejt
 
 ### Link til vores server
 https://chat-app-albertslund-2023-dbe996610a5f.herokuapp.com/
+
+
+### Link til antons side:
+https://pgm-aus.github.io/antons-side/
